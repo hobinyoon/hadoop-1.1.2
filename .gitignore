@@ -1,0 +1,15 @@
+src/docs/cn/src/documentation/sitemap.xmap
+src/docs/cn/uming.conf
+src/native/INSTALL
+src/native/Makefile.in
+src/native/aclocal.m4
+src/native/config.h.in
+src/native/config.h.in~
+src/native/config/config.guess
+src/native/config/config.sub
+src/native/config/depcomp
+src/native/config/install-sh
+src/native/config/ltmain.sh
+src/native/config/missing
+src/native/configure
+build
