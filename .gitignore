@@ -13,3 +13,4 @@ src/native/config/ltmain.sh
 src/native/config/missing
 src/native/configure
 build
+logs
