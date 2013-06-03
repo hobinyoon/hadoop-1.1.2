@@ -8,4 +8,9 @@
 		<name>fs.default.name</name>
 		<value>hdfs://localhost:9000</value>
 	</property>
+
+	<property>
+		<name>fs.tachyon.impl</name>
+		<value>tachyon.hadoop.TachyonFileSystem</value>
+	</property>
 </configuration>
