@@ -11,7 +11,7 @@ export JAVA_HOME=/usr
 
 # Extra Java CLASSPATH elements.  Optional.
 # export HADOOP_CLASSPATH=
-export HADOOP_CLASSPATH=/root/work/tachyon/target/tachyon-0.2.1-jar-with-dependencies.jar
+export HADOOP_CLASSPATH=~/work/tachyon/target/tachyon-0.2.1-jar-with-dependencies.jar
 
 # The maximum amount of heap to use, in MB. Default is 1000.
 # export HADOOP_HEAPSIZE=2000
